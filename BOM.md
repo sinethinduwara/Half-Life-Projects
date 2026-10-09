@@ -19,7 +19,7 @@
 | [MX Switches](https://www.daraz.lk/products/20-100pc-mechanical-keyboard-switches-blue-red-brown-switch-customizable-hot-swappable-3-pins-cross-stem-for-mechanical-keyboard-i1762241656-s12927210283.html?) | push buttons | 2 | $3.63 | $7.26 | [Daraz](https://www.daraz.lk/products/20-100pc-mechanical-keyboard-switches-blue-red-brown-switch-customizable-hot-swappable-3-pins-cross-stem-for-mechanical-keyboard-i1762241656-s12927210283.html?) |
 | [Keycaps](https://www.daraz.lk/products/keys-button-keycap-fidget-keychain-finger-keyboard-caps-toy-decompression-keychain-stress-relief-gadget-pass-the-time-for-adult-i744821194-s2858904258.html?) | push caps | 2 | $2.61 | $5.22 | [Daraz](https://www.daraz.lk/products/keys-button-keycap-fidget-keychain-finger-keyboard-caps-toy-decompression-keychain-stress-relief-gadget-pass-the-time-for-adult-i744821194-s2858904258.html?) |
 | **Parts subtotal** | — | — | — | **$25.05** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$25.05** | — |
+| **Tax & shipping** | — | — | — | **$3.20** | — |
+| **Total** | — | — | — | **$28.25** | — |
 
-$4.95 left of the tier's funding.
+$1.75 left of the tier's funding.
